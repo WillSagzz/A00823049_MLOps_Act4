@@ -1,4 +1,4 @@
-# Act 4: Código de experimentación base con MLFlow {ignore=true}
+# Act 4: Código de experimentación base con MLFlow
   
 El presente `README.md` describe como instalar las dependencias necesarias para correr el script de entrenamiento del modelo.
   
